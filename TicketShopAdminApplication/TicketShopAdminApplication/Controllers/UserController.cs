@@ -60,7 +60,7 @@ namespace TicketShopAdminApplication.Controllers
                         {
                             Email = reader.GetValue(0).ToString(),
                             Password = reader.GetValue(1).ToString(),
-                            ConfirmPassword = reader.GetValue(2).ToString(),
+                            Role = reader.GetValue(2).ToString(),
                         });
                     }
                 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WsP79rZ7I7tnKviYjW/iNnNKkFjCImtIbMnvF4lUtNKyz4mICW2afF6QySEesg88IqLaeDm0WT0LO6EXCkB8zw==",
+  "dgSpecHash": "MImtMxVArZtLp5wqaRkliPnUTKzzFHdoN039JGjHuWUgWC+GJr6niXVbe9pFHyjREFfr/qulCjJ1vw7k79t6cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoManiaDom\\TicketShopApplication\\TicketShop.Services\\TicketShop.Services.csproj",
+  "projectFilePath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Services\\TicketShop.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TODOROVSKI\\.nuget\\packages\\elasticsearch.net\\7.17.4\\elasticsearch.net.7.17.4.nupkg.sha512",
     "C:\\Users\\TODOROVSKI\\.nuget\\packages\\mailkit\\3.3.0\\mailkit.3.3.0.nupkg.sha512",

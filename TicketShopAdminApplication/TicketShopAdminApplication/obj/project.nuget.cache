@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QjrHTg2VxrmIuxJiY1Hv3vhRLghDAft5kpigR8BZ6HHbVYR9kwvzrkylUC4PrL436r5aS6UvtNO8gnmcMHR4qQ==",
+  "dgSpecHash": "Oxs7GMKwGY43Ekvl1nuF0nz3PGXY8tIcvebjISIq3EAOPVo7ExDAIDSYhjzLK/xR4MEvDJC4q3GTFK0aOMWQBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoManiaDom\\TicketShopAdminApplication\\TicketShopAdminApplication\\TicketShopAdminApplication.csproj",
+  "projectFilePath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopAdminApplication\\TicketShopAdminApplication\\TicketShopAdminApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TODOROVSKI\\.nuget\\packages\\closedxml\\0.96.0\\closedxml.0.96.0.nupkg.sha512",
     "C:\\Users\\TODOROVSKI\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",

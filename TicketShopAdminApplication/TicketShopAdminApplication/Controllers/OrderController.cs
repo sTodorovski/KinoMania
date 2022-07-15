@@ -126,7 +126,7 @@ namespace TicketShopAdminApplication.Controllers
             foreach (var item in data.Tickets)
             {
                 totalPrice += item.Quantity * item.OrderedTicket.Price;
-                sb.AppendLine(item.OrderedTicket.MovieName + " with quantity of: " + item.Quantity + " and price of: " + item.OrderedTicket.Price + "MKD");
+                sb.AppendLine(item.Quantity + " x " + item.OrderedTicket.MovieName + " with price of: " + item.OrderedTicket.Price + "MKD");
             }
 
             document.Content.Replace("{{TicketList}}", sb.ToString());

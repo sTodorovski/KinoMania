@@ -14,11 +14,13 @@ namespace TicketShop.Web.Controllers.API
     {
         private readonly IOrderService _orderService;
         private readonly UserManager<TicketShopApplicationUser> userManager;
+        private readonly RoleManager<IdentityRole> roleManager;
 
-        public AdminController(IOrderService orderService, UserManager<TicketShopApplicationUser> userManager)
+        public AdminController(IOrderService orderService, UserManager<TicketShopApplicationUser> userManager, RoleManager<IdentityRole> roleManager)
         {
             this._orderService = orderService;
             this.userManager = userManager;
+            this.roleManager = roleManager;
         }
         [HttpGet("[action]")]
         public List<Order> GetAllActiveOrders()
@@ -63,6 +65,12 @@ namespace TicketShop.Web.Controllers.API
             }
 
             return status;
+        }
+
+        [HttpGet]
+        public IActionResult CreateRole()
+        {
+            return null;
         }
     }
 }

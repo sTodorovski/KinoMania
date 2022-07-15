@@ -9,7 +9,7 @@
 
 <div class="container">
     <div class="l-3">
-        <a class="btn btn-success" asp-controller="Tickets" asp-action="Create">Insert New Movie</a>
+        <a class="btn btn-dark" asp-controller="Tickets" asp-action="Create">Insert New Movie</a>
         <br /><br />
     </div>
 
@@ -23,13 +23,14 @@
            }
 
         <div class="col-4">
-            <div class="card" style="width: 300px; height: 900px;">
-                <img class="card-img-top" src="@item.MoviePoster" style="height: 475px; width: 300px" alt="Movie Poster!">
+            <div class="card" style="width: 340px; height: 900px;">
+                <img class="card-img-top" src="@item.MoviePoster" style="height: 475px; width: 340px" alt="Movie Poster!">
 
                 <div class="card-body">
                     <h4 class="card-title">@item.MovieName</h4>
                     <p class="card-text">@item.MovieDescription</p>
                     <p class="card-text">@item.Genre</p>
+                    <p class="card-text">@item.Date</p>
                     <h6>Price: @item.Price ДЕН</h6>
                 </div>
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEsRVzKfXtnyogjWqp/5btBTQwDZaNarMrNSkXmB0Zl0U+uPk4CtkW4yfy4+C/6qILyaaYxrPlVyrpOaiWzHmQ==",
+  "dgSpecHash": "EypmaWCqshOz+KB3SQSTZyByz7gbvF2ic9sQNNr9jXaUKlf7bmSOYsjwp8CN328lpAufMe2cw6fAEU/SWAmvGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoManiaDom\\TicketShopApplication\\TicketShop.Repository\\TicketShop.Repository.csproj",
+  "projectFilePath": "C:\\Users\\TODOROVSKI\\Desktop\\KinoMania\\TicketShopApplication\\TicketShop.Repository\\TicketShop.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TODOROVSKI\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.25\\microsoft.aspnetcore.cryptography.internal.3.1.25.nupkg.sha512",
     "C:\\Users\\TODOROVSKI\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.25\\microsoft.aspnetcore.cryptography.keyderivation.3.1.25.nupkg.sha512",

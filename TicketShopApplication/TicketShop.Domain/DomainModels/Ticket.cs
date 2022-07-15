@@ -18,6 +18,8 @@ namespace TicketShop.Domain.DomainModels
         public int Price { get; set; }
         [Required]
         public int Rating { get; set; }
+        [Required]
+        public string Date { get; set; }
         public virtual ICollection<TicketInShoppingCart> TicketInShoppingCarts { get; set; }
         public IEnumerable<TicketInOrder> TicketInOrders { get; set; }
     }
